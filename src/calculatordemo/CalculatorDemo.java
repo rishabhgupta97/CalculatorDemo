@@ -13,6 +13,12 @@ public class CalculatorDemo {
 
    public void show(){
        System.out.println("hello");
+       System.out.println("hello");
+       System.out.println("hello");
+       System.out.println("hello");
+       System.out.println("hello");
+       System.out.println("hello");
+       System.out.println("hello");
    }
     public static void main(String[] args) {
         // TODO code application logic here
