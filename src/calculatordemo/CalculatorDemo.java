@@ -11,9 +11,9 @@ package calculatordemo;
  */
 public class CalculatorDemo {
 
-    /**
-     * @param args the command line arguments
-     */
+   public void show(){
+       System.out.println("hello");
+   }
     public static void main(String[] args) {
         // TODO code application logic here
     }
